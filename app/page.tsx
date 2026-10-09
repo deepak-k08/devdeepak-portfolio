@@ -8,15 +8,15 @@ const projects = [
     title: "React-Based Real-Time Currency Converter",
     text: "A responsive currency converter that fetches real-time exchange rates and provides fast, accurate currency conversions through a clean and simple interface.",
     tags: ["React.js", "JavaScript", "REST API", "CSS"],
-    live: "https://currency-converter-app-deepaks-projects-c7eea945.vercel.app",
-    code: "https://github.com/deepak-k08/currency-converter",
+    live: 'https://currency-converter.devdeepak.in',
+     code: "https://github.com/deepak-k08/currency-converter",
   },
   {
     n: "02",
     title: "React-Based Password Generator",
     text: "A responsive password generator that creates secure, customizable passwords with options for length, numbers, symbols and character combinations.",
     tags: ["React.js", "JavaScript", "CSS"],
-    live: "https://password-gen-25.vercel.app",
+    live: 'https://password-generator.devdeepak.in',
     code: "https://github.com/deepak-k08/password-generator",
   },
 ];
